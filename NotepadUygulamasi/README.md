@@ -16,7 +16,7 @@ Bu Java programı, kullanıcıdan metin girişi almayı ve bu metni "notes.txt" 
 
 Program herhangi bir hata durumunda ilgili hata mesajını ekrana yazdıracaktır.
 
-=====================================================================================
+======================================================================================
 
 # Text File Processing Program - Notepad
 
