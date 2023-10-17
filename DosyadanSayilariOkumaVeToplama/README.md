@@ -16,7 +16,7 @@ Bu Java uygulaması, bir metin dosyasındaki sayıları okuyarak toplama işlemi
 
 6. Okunan her satırdaki sayıları toplar ve sonucu ekrana yazdırır.
 
-===============================================================================================================================================================================================
+====================================================================================
 
 # Addition Operation Java Application
 
