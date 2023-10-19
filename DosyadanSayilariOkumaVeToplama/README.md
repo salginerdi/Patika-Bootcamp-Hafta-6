@@ -34,4 +34,4 @@ This Java application performs addition by reading numbers from a text file. Thi
 
 5. Then, it reopens the same file for reading and reads it line by line.
 
-6. It sums the numbers in each line and prints the result to the screen.
+6. It sums the numbers in each line and prints the result to the screen. 
