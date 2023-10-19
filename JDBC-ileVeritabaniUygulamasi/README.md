@@ -33,21 +33,19 @@ Java ortamınızda DBConnect sınıfını çalıştırın. Bu, MySQL veritabanı
 
 Alınan veri, her çalışanın ID, Adı, Pozisyonu ve Maaşı olarak konsolda görüntülenecektir.
 
-### Örnek Çıktı
+-Örnek Çıktı
 
-<sup><sub>Örnek çıktı aşağıda gösterilmiştir:</sub></sup>
-
-<sup><sub>ID: 1</sub></sup>
-<sup><sub>Adı: John Doe</sub></sup>
-<sup><sub>Pozisyon: Müdür</sub></sup>
-<sup><sub>Maaş: 60000</sub></sup>
-<sup><sub>=============================================</sub></sup>
-<sup><sub>ID: 2</sub></sup>
-<sup><sub>Adı: Jane Smith</sub></sup>
-<sup><sub>Pozisyon: Geliştirici</sub></sup>
-<sup><sub>Maaş: 55000</sub></sup>
-<sup><sub>=============================================</sub></sup>
-<sup><sub>...</sub></sup>
+ID: 1
+Adı: John Doe
+Pozisyon: Müdür
+Maaş: 60000
+=============================================
+ID: 2
+Adı: Jane Smith
+Pozisyon: Geliştirici
+Maaş: 55000
+=============================================
+...
 
 ====================================================================================
 
@@ -81,7 +79,7 @@ Run the DBConnect class in your Java environment. It will connect to the MySQL d
 
 The retrieved data will be displayed in the console, showing the ID, Name, Position, and Salary of each employee.
 
-### Example Output
+-Example Output
 
 ID: 1
 Name: John Doe
