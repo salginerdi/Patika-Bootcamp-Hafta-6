@@ -3,7 +3,7 @@
 Bu Java projesi, MySQL veritabanına nasıl bağlanılacağını ve "employees" tablosundan veri nasıl çekileceğini göstermektedir.
 JDBC (Java Veritabanı Bağlantısı) API'sini kullanarak bağlantı kurma, SQL sorgusu çalıştırma ve alınan veriyi görüntüleme işlemlerini gerçekleştirir.
 
-# Gereksinimler
+### Gereksinimler
 
 Bu projeyi çalıştırmadan önce aşağıdaki gereksinimleri kurduğunuzdan emin olun:
 
@@ -11,7 +11,7 @@ Bu projeyi çalıştırmadan önce aşağıdaki gereksinimleri kurduğunuzdan em
 - MySQL Veritabanı
 - MySQL için JDBC Sürücüsü
 
-# Kurulum
+### Kurulum
 
 Bu depoyu yerel makinenize klonlayın:
 
@@ -21,19 +21,19 @@ Projeyi Java geliştirme ortamınızda açın (örneğin, IntelliJ IDEA, Eclipse
 
 MySQL JDBC sürücüsünü projenize dahil ettiğinizden emin olun.
 
-# Yapılandırma
+### Yapılandırma
 DBConnect.java dosyasında, MySQL veritabanı yapılandırmanızla uyuşacak şekilde aşağıdaki sabitleri düzenlemeniz gerekebilir:
 
 -DB_URL: MySQL veritabanınızın URL'si.
 -DB_USER: MySQL kullanıcı adınız.
 -DB_PASSWORD: MySQL şifreniz.
 
-# Kullanım
+### Kullanım
 Java ortamınızda DBConnect sınıfını çalıştırın. Bu, MySQL veritabanına bağlanacak ve "employees" tablosundan veri çekecektir.
 
 Alınan veri, her çalışanın ID, Adı, Pozisyonu ve Maaşı olarak konsolda görüntülenecektir.
 
-# Örnek Çıktı
+### Örnek Çıktı
 
 ID: 1
 Adı: John Doe
@@ -67,19 +67,19 @@ Open the project in your Java development environment (e.g., IntelliJ IDEA, Ecli
 
 Make sure to include the MySQL JDBC driver library in your project.
 
-# Configuration
+### Configuration
 In the DBConnect.java file, you may need to modify the following constants to match your MySQL database setup:
 
 -DB_URL: The URL of your MySQL database.
 -DB_USER: Your MySQL username.
 -DB_PASSWORD: Your MySQL password.
 
-# Usage
+### Usage
 Run the DBConnect class in your Java environment. It will connect to the MySQL database and retrieve data from the "employees" table.
 
 The retrieved data will be displayed in the console, showing the ID, Name, Position, and Salary of each employee.
 
-# Example Output
+### Example Output
 
 ID: 1
 Name: John Doe
