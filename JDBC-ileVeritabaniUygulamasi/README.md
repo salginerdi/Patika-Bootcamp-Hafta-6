@@ -46,7 +46,7 @@ Maaş: 55000
 =============================================
 ...
 
-=======================================================================================
+====================================================================================
 
 # Database Application with JDBC
 This Java project demonstrates how to connect to a MySQL database and retrieve data from the "employees" table. It uses the JDBC (Java Database Connectivity) API to establish a connection, execute an SQL query, and display the retrieved data.
