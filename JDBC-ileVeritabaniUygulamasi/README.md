@@ -24,10 +24,11 @@ MySQL JDBC sürücüsünü projenize dahil ettiğinizden emin olun.
 ## Yapılandırma
 DBConnect.java dosyasında, MySQL veritabanı yapılandırmanızla uyuşacak şekilde aşağıdaki sabitleri düzenlemeniz gerekebilir:
 
-DB_URL: MySQL veritabanınızın URL'si.
-DB_USER: MySQL kullanıcı adınız.
-DB_PASSWORD: MySQL şifreniz.
-Kullanım
+-DB_URL: MySQL veritabanınızın URL'si.
+-DB_USER: MySQL kullanıcı adınız.
+-DB_PASSWORD: MySQL şifreniz.
+
+## Kullanım
 Java ortamınızda DBConnect sınıfını çalıştırın. Bu, MySQL veritabanına bağlanacak ve "employees" tablosundan veri çekecektir.
 
 Alınan veri, her çalışanın ID, Adı, Pozisyonu ve Maaşı olarak konsolda görüntülenecektir.
@@ -69,10 +70,11 @@ Make sure to include the MySQL JDBC driver library in your project.
 ## Configuration
 In the DBConnect.java file, you may need to modify the following constants to match your MySQL database setup:
 
-DB_URL: The URL of your MySQL database.
-DB_USER: Your MySQL username.
-DB_PASSWORD: Your MySQL password.
-Usage
+-DB_URL: The URL of your MySQL database.
+-DB_USER: Your MySQL username.
+-DB_PASSWORD: Your MySQL password.
+
+#Usage
 Run the DBConnect class in your Java environment. It will connect to the MySQL database and retrieve data from the "employees" table.
 
 The retrieved data will be displayed in the console, showing the ID, Name, Position, and Salary of each employee.
