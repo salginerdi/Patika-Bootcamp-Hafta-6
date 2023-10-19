@@ -33,7 +33,7 @@ Java ortamınızda DBConnect sınıfını çalıştırın. Bu, MySQL veritabanı
 
 Alınan veri, her çalışanın ID, Adı, Pozisyonu ve Maaşı olarak konsolda görüntülenecektir.
 
--Örnek Çıktı
+## Örnek Çıktı
 
 ID: 1
 Adı: John Doe
@@ -79,7 +79,7 @@ Run the DBConnect class in your Java environment. It will connect to the MySQL d
 
 The retrieved data will be displayed in the console, showing the ID, Name, Position, and Salary of each employee.
 
--Example Output
+## Example Output
 
 ID: 1
 Name: John Doe
