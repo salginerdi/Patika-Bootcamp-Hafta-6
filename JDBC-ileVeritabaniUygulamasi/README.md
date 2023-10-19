@@ -52,7 +52,7 @@ Maaş: 55000
 # Database Application with JDBC
 This Java project demonstrates how to connect to a MySQL database and retrieve data from the "employees" table. It uses the JDBC (Java Database Connectivity) API to establish a connection, execute an SQL query, and display the retrieved data.
 
-Prerequisites
+### Prerequisites
 Before running this project, make sure you have the following prerequisites installed:
 
 Java Development Kit (JDK)
@@ -80,7 +80,7 @@ Run the DBConnect class in your Java environment. It will connect to the MySQL d
 The retrieved data will be displayed in the console, showing the ID, Name, Position, and Salary of each employee.
 
 ### Example Output
-
+######
 ID: 1
 Name: John Doe
 Position: Manager
